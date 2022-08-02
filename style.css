@@ -66,10 +66,19 @@ footer{
     margin-bottom: 10%;
     padding-left: 40px;
     padding-right: 3px;
+
 }
 
 .expriencess-area{
     background-image: url(image/images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left 270px;
+}
+
+#full-stack-developer{
+    border-left: 7px solid tomato;
+}
+
+#baby-developer{
+    border-left: 7px solid blue;
 }
