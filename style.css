@@ -4,9 +4,6 @@ body{
 
 }
 
-
-
-/*--------- Top Section Start ----------*/
 h1{
     font-size: 80px;
 }
@@ -18,7 +15,7 @@ section{
 }
 
 
-/*----- Class Start-----*/
+
 .orange-color{
     color: orange;
 }
@@ -44,6 +41,15 @@ section{
 background-image: url(image/images/top-banner.png);
 background-repeat:  no-repeat;
 }
+
+.middel-banner{
+    background-image: url(image/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+
 
 /*----- Class End-----*/
 
