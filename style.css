@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 
 }
 
@@ -36,10 +37,13 @@ section{
     color: white;
     font-weight: 700;
     padding: 10px 30px;
-    border-radius: 5px;
-    
+    border-radius: 5px;  
 }
 
+.top-banner{
+background-image: url(image/images/top-banner.png);
+background-repeat:  no-repeat;
+}
 
 /*----- Class End-----*/
 
@@ -51,8 +55,6 @@ section{
 
 
 /*--------- Top Section End ----------*/
-
-
 
 
 
